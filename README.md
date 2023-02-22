@@ -1,4 +1,4 @@
-# stock-analysis
+# Stock-Analysis
 
 ## 2018 
 
